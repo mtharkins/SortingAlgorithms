@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michar/Documents/Softwire/Sorting/Sorting.csproj": {}
+  },
+  "projects": {
+    "/Users/michar/Documents/Softwire/Sorting/Sorting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michar/Documents/Softwire/Sorting/Sorting.csproj",
+        "projectName": "Sorting",
+        "projectPath": "/Users/michar/Documents/Softwire/Sorting/Sorting.csproj",
+        "packagesPath": "/Users/michar/.nuget/packages/",
+        "outputPath": "/Users/michar/Documents/Softwire/Sorting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.427/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
